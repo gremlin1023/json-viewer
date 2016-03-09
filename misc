@@ -1,0 +1,328 @@
+{
+  "conversation_state" : [ {
+    "conversation_id" : {
+      "id" : "Ugysu4RdiuyJ7lAZTHF4AaABAQ"
+    },
+    "response_header" : {
+      "status" : "OK",
+      "debug_url" : "",
+      "request_trace_id" : "18094629539148419579",
+      "current_server_time" : "1457510113754000"
+    },
+    "conversation_state" : {
+      "conversation_id" : {
+        "id" : "Ugysu4RdiuyJ7lAZTHF4AaABAQ"
+      },
+      "conversation" : {
+        "id" : {
+          "id" : "Ugysu4RdiuyJ7lAZTHF4AaABAQ"
+        },
+        "type" : "STICKY_ONE_TO_ONE",
+        "self_conversation_state" : {
+          "self_read_state" : {
+            "participant_id" : {
+              "gaia_id" : "114418740572275047595",
+              "chat_id" : "114418740572275047595"
+            },
+            "latest_read_timestamp" : "1442044877148615"
+          },
+          "status" : "ACTIVE",
+          "notification_level" : "RING",
+          "view" : [ "INBOX_VIEW" ],
+          "inviter_id" : {
+            "gaia_id" : "117669174686234953765",
+            "chat_id" : "117669174686234953765"
+          },
+          "invite_timestamp" : "1437863162548000",
+          "sort_timestamp" : "1442044877148615",
+          "active_timestamp" : "1437868954170000",
+          "delivery_medium_option" : [ {
+            "delivery_medium" : {
+              "medium_type" : "BABEL_MEDIUM"
+            },
+            "current_default" : true
+          } ]
+        },
+        "read_state" : [ {
+          "participant_id" : {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          },
+          "latest_read_timestamp" : "1442044877148615"
+        }, {
+          "participant_id" : {
+            "gaia_id" : "117669174686234953765",
+            "chat_id" : "117669174686234953765"
+          },
+          "latest_read_timestamp" : "1442044877148615"
+        } ],
+        "has_active_hangout" : false,
+        "otr_status" : "ON_THE_RECORD",
+        "otr_toggle" : "ENABLED",
+        "current_participant" : [ {
+          "gaia_id" : "117669174686234953765",
+          "chat_id" : "117669174686234953765"
+        }, {
+          "gaia_id" : "114418740572275047595",
+          "chat_id" : "114418740572275047595"
+        } ],
+        "participant_data" : [ {
+          "id" : {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          },
+          "fallback_name" : "Ashton Bello",
+          "invitation_status" : "ACCEPTED_INVITATION",
+          "participant_type" : "GAIA",
+          "new_invitation_status" : "ACCEPTED_INVITATION"
+        }, {
+          "id" : {
+            "gaia_id" : "117669174686234953765",
+            "chat_id" : "117669174686234953765"
+          },
+          "fallback_name" : "June Bello",
+          "invitation_status" : "ACCEPTED_INVITATION",
+          "participant_type" : "GAIA",
+          "new_invitation_status" : "ACCEPTED_INVITATION"
+        } ],
+        "fork_on_external_invite" : false,
+        "network_type" : [ "BABEL" ],
+        "force_history_state" : "NO_FORCE",
+        "is_group_link_sharing_enabled" : false
+      },
+      "event" : [ {
+        "conversation_id" : {
+          "id" : "Ugysu4RdiuyJ7lAZTHF4AaABAQ"
+        },
+        "sender_id" : {
+          "gaia_id" : "114418740572275047595",
+          "chat_id" : "114418740572275047595"
+        },
+        "timestamp" : "1442040859931877",
+        "self_event_state" : {
+          "user_id" : {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          },
+          "client_generated_id" : "1681957769",
+          "notification_level" : "RING"
+        },
+        "chat_message" : {
+          "message_content" : {
+            "segment" : [ {
+              "type" : "TEXT",
+              "text" : "fggg"
+            } ]
+          }
+        },
+        "event_id" : "822MRqa_SWm83zrleCotqw",
+        "advances_sort_timestamp" : true,
+        "event_otr" : "ON_THE_RECORD",
+        "delivery_medium" : {
+          "medium_type" : "BABEL_MEDIUM"
+        },
+        "event_type" : "REGULAR_CHAT_MESSAGE",
+        "event_version" : "1442040859931877"
+      }, {
+        "conversation_id" : {
+          "id" : "Ugysu4RdiuyJ7lAZTHF4AaABAQ"
+        },
+        "sender_id" : {
+          "gaia_id" : "114418740572275047595",
+          "chat_id" : "114418740572275047595"
+        },
+        "timestamp" : "1442044877148615",
+        "self_event_state" : {
+          "user_id" : {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          },
+          "client_generated_id" : "688195400450",
+          "notification_level" : "RING"
+        },
+        "chat_message" : {
+          "message_content" : {
+            "segment" : [ {
+              "type" : "TEXT",
+              "text" : "rftgragdsgs",
+              "formatting" : {
+                "bold" : false,
+                "italics" : false,
+                "strikethrough" : false,
+                "underline" : false
+              }
+            } ]
+          }
+        },
+        "event_id" : "822MRqa_SWm83zzR1i9PZG",
+        "advances_sort_timestamp" : true,
+        "event_otr" : "ON_THE_RECORD",
+        "delivery_medium" : {
+          "medium_type" : "BABEL_MEDIUM"
+        },
+        "event_type" : "REGULAR_CHAT_MESSAGE",
+        "event_version" : "1442044877148615"
+      } ]
+    }
+  }, {
+    "conversation_id" : {
+      "id" : "Ugyii7Wj9YhHjCz53BJ4AaABAQ"
+    },
+    "response_header" : {
+      "status" : "OK",
+      "debug_url" : "",
+      "request_trace_id" : "18094629539148419579",
+      "current_server_time" : "1457510114741000"
+    },
+    "conversation_state" : {
+      "conversation_id" : {
+        "id" : "Ugyii7Wj9YhHjCz53BJ4AaABAQ"
+      },
+      "conversation" : {
+        "id" : {
+          "id" : "Ugyii7Wj9YhHjCz53BJ4AaABAQ"
+        },
+        "type" : "STICKY_ONE_TO_ONE",
+        "self_conversation_state" : {
+          "self_read_state" : {
+            "participant_id" : {
+              "gaia_id" : "114418740572275047595",
+              "chat_id" : "114418740572275047595"
+            },
+            "latest_read_timestamp" : "1455091246588482"
+          },
+          "status" : "ACTIVE",
+          "notification_level" : "RING",
+          "view" : [ "INBOX_VIEW" ],
+          "inviter_id" : {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          },
+          "invite_timestamp" : "1442023673441000",
+          "sort_timestamp" : "1455091246588482",
+          "active_timestamp" : "1442023673441000",
+          "delivery_medium_option" : [ {
+            "delivery_medium" : {
+              "medium_type" : "BABEL_MEDIUM"
+            },
+            "current_default" : true
+          } ]
+        },
+        "read_state" : [ {
+          "participant_id" : {
+            "gaia_id" : "104274364261612117855",
+            "chat_id" : "104274364261612117855"
+          },
+          "latest_read_timestamp" : "0"
+        }, {
+          "participant_id" : {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          },
+          "latest_read_timestamp" : "1455091246588482"
+        } ],
+        "has_active_hangout" : false,
+        "otr_status" : "ON_THE_RECORD",
+        "otr_toggle" : "ENABLED",
+        "current_participant" : [ {
+          "gaia_id" : "104274364261612117855",
+          "chat_id" : "104274364261612117855"
+        }, {
+          "gaia_id" : "114418740572275047595",
+          "chat_id" : "114418740572275047595"
+        } ],
+        "participant_data" : [ {
+          "id" : {
+            "gaia_id" : "104274364261612117855",
+            "chat_id" : "104274364261612117855"
+          },
+          "fallback_name" : "Abigail Bello",
+          "invitation_status" : "PENDING_INVITATION",
+          "participant_type" : "GAIA",
+          "new_invitation_status" : "PENDING_INVITATION"
+        }, {
+          "id" : {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          },
+          "fallback_name" : "Abigail Bello",
+          "invitation_status" : "ACCEPTED_INVITATION",
+          "participant_type" : "GAIA",
+          "new_invitation_status" : "ACCEPTED_INVITATION"
+        } ],
+        "fork_on_external_invite" : false,
+        "network_type" : [ "BABEL" ],
+        "force_history_state" : "NO_FORCE",
+        "is_group_link_sharing_enabled" : false
+      },
+      "event" : [ {
+        "conversation_id" : {
+          "id" : "Ugyii7Wj9YhHjCz53BJ4AaABAQ"
+        },
+        "sender_id" : {
+          "gaia_id" : "114418740572275047595",
+          "chat_id" : "114418740572275047595"
+        },
+        "timestamp" : "1455091224117408",
+        "self_event_state" : {
+          "user_id" : {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          },
+          "client_generated_id" : "1455091223819",
+          "notification_level" : "RING"
+        },
+        "hangout_event" : {
+          "event_type" : "START_HANGOUT",
+          "participant_id" : [ {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          } ],
+          "media_type" : "AUDIO_ONLY"
+        },
+        "event_id" : "83zLzhkj4nN8A3nMgPs4Xs",
+        "advances_sort_timestamp" : true,
+        "event_otr" : "ON_THE_RECORD",
+        "delivery_medium" : {
+          "medium_type" : "BABEL_MEDIUM"
+        },
+        "event_type" : "HANGOUT_EVENT",
+        "event_version" : "1455091224117408"
+      }, {
+        "conversation_id" : {
+          "id" : "Ugyii7Wj9YhHjCz53BJ4AaABAQ"
+        },
+        "sender_id" : {
+          "gaia_id" : "114418740572275047595",
+          "chat_id" : "114418740572275047595"
+        },
+        "timestamp" : "1455091246588482",
+        "self_event_state" : {
+          "user_id" : {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          },
+          "client_generated_id" : "1455091246427",
+          "notification_level" : "RING"
+        },
+        "hangout_event" : {
+          "event_type" : "END_HANGOUT",
+          "participant_id" : [ {
+            "gaia_id" : "114418740572275047595",
+            "chat_id" : "114418740572275047595"
+          } ],
+          "hangout_duration_secs" : "22",
+          "media_type" : "AUDIO_ONLY"
+        },
+        "event_id" : "83zLzhkj4nN8A3nPQy7w_l",
+        "advances_sort_timestamp" : true,
+        "event_otr" : "ON_THE_RECORD",
+        "delivery_medium" : {
+          "medium_type" : "BABEL_MEDIUM"
+        },
+        "event_type" : "HANGOUT_EVENT",
+        "event_version" : "1455091246588482"
+      } ]
+    }
+  } ]
+}
